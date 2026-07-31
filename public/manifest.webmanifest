@@ -1,0 +1,10 @@
+{
+  "name": "Owais Ahmad Data Engineer Portfolio",
+  "short_name": "Owais Portfolio",
+  "description": "Recruiter-focused portfolio for Junior Data Engineer Owais Ahmad.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b16",
+  "theme_color": "#22d3ee",
+  "icons": []
+}

@@ -1,0 +1,39 @@
+Owais Ahmad
+Junior Data Engineer
+Email: owaisahmad445566@gmail.com
+LinkedIn: https://www.linkedin.com/in/owais-ahmad-79a431292/
+GitHub: https://github.com/Owais4077
+
+SUMMARY
+Junior Data Engineer focused on scalable ETL pipelines, Python, SQL, PySpark, Databricks, Delta Lake, Lakehouse architecture, data validation, and analytics-ready data products.
+
+CORE SKILLS
+Programming: Python, SQL, Spark SQL
+Data Engineering: ETL, ELT, data pipelines, data cleaning, data transformation, data validation, data quality
+Big Data: Apache Spark, PySpark, Databricks, Delta Lake
+Databases: PostgreSQL, MySQL, SQL Server
+Backend: FastAPI, REST APIs, Streamlit
+Analytics: Power BI, Pandas, NumPy, Excel
+Tools: Git, GitHub, Docker, VS Code
+
+EXPERIENCE
+Data Engineer Intern, YBIX | Full-Time
+May 2026 - July 2026
+- Developed ETL pipelines using Python, SQL, PySpark, and Databricks.
+- Performed data cleaning, validation, and transformation to improve data quality.
+- Built a modern Lakehouse architecture using Bronze, Silver, and Gold layers.
+- Implemented Delta Lake MERGE operations for incremental data processing.
+- Created dashboards and reports to support business intelligence.
+- Collaborated with engineering teams to build scalable and reliable data workflows.
+
+EDUCATION
+BS Computer Science (Data Science)
+University of Engineering & Technology, Mardan
+2022 - 2026
+
+SELECTED PROJECTS
+Automated ETL Pipeline
+Databricks Lakehouse Architecture
+Online Retail Analytics
+AI Personal Assistant
+Customer Lifetime Value Prediction
